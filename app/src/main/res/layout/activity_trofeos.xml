@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradientegris"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/barra" />
+
+
+    <GridView
+        android:id="@+id/grilla"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:columnWidth="165dp"
+        android:gravity="center|bottom"
+        android:horizontalSpacing="5dp"
+        android:numColumns="2"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:stretchMode="spacingWidth"
+        android:verticalSpacing="5dp"
+        android:visibility="visible" />
+
+</LinearLayout>

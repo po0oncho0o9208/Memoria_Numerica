@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/jugar2b" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/jugar2f" android:state_enabled="true"></item>
+    <item android:drawable="@drawable/lock" android:state_enabled="false"></item>
+
+</selector>

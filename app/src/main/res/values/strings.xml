@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memoria numerica</string>
+    <string name="idbannerproduccion">ca-app-pub-3718948492231165/6508679394</string>
+    <string name="idbannertest">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="intertest">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interproduccion">ca-app-pub-3718948492231165/6600318350</string>
+</resources>

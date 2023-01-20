@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147297690622",
+    "project_id": "memoria-numerica-76ec1",
+    "storage_bucket": "memoria-numerica-76ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147297690622:android:16ba02562b3224589096af",
+        "android_client_info": {
+          "package_name": "com.gametops.memorianumerica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147297690622-c73f9tolu6pjffl6sfmd24bkghmgo1ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gametops.memorianumerica",
+            "certificate_hash": "6469cdde948742885abcfbec8edc48c184470692"
+          }
+        },
+        {
+          "client_id": "147297690622-qun71vsh5ct0aorqhj5v46krucgu46bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gametops.memorianumerica",
+            "certificate_hash": "791c0c0d9d37047fafa6530a52d82ffe25a1891c"
+          }
+        },
+        {
+          "client_id": "147297690622-02kbd1is645npkbqvc3832kc708uptr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2lkkfd44UtK3UaEYl9p4LmlyN1ouuz8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147297690622-02kbd1is645npkbqvc3832kc708uptr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
